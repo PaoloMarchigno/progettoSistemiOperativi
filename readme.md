@@ -7,6 +7,6 @@ ho costruito in arduino una piccola tavola con 7 pulsanti (ogni pulsante rappres
 in realtà non lo so. 
 ### COME FARLO GIRARE 
 portarsi all'interno della cartella "ProgettoSistemiOperativi"  ed eseguire: 
-  $make keyboard.hex
+  $ make keyboard.hex
 e successivamente : 
-  $cutecom
+  $ cutecom
