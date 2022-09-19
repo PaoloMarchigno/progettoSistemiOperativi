@@ -66,7 +66,7 @@ uint8_t keyScan(KeyEvent* events){
 }
 static char* note []=
   {
-      "DOOO",  
+      "Do",  
       "RE",  
      "MI",  
      "FA",  
